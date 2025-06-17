@@ -4,7 +4,7 @@ Welcome to the GitHub repository of **Lorena Lozano**, a dynamic bilingual techn
 
 ## 🚀 About Me
 
-I’m a **Product Manager** and **Technical Program Manager** with over a decade of experience building software products, leading development teams, and driving strategic technology initiatives. I bring a unique blend of **business acumen** and **technical insight**, cultivated through my experience.
+I am a professional who loves challenges. I have an innovative and curious mindset. I'm always looking for new ways to add my perspective to every project. I have over five years of experience building and implementing marketing strategies through various channels such as Google Ads, Bing Ads, Apple Search Ads, Facebook, Criteo, and RTB House. Additionally, I have developed a strong understanding of data analysis tools, including Google Analytics, Tableau, Amplitude, AppsFlyer, and Looker Studio. Throughout my career, I have worked with both large and medium-sized companies, where I have successfully implemented new campaigns and utilized analysis and reporting techniques to enhance performance.
 
 My passion lies in:
 - Aligning product vision with user needs and market demands
