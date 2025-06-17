@@ -1,4 +1,4 @@
-# 👩‍💼 Lorena Lozano - Product Management | Technology | Strategic Leadership
+# 👩‍💼 Lorena Lozano - Digital Marketing Strategist | Technology | Strategic Leadership
 
 Welcome to the GitHub repository of **Lorena Lozano**, a dynamic bilingual technology leader with a proven track record in strategic product management, cross-functional team leadership, and innovation in both startup and corporate environments.
 
