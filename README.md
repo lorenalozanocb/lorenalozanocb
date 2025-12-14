@@ -1,6 +1,6 @@
 # 👩‍💼 Lorena Lozano - Digital Marketing Strategist | Technology | Strategic Leadership
 
-Welcome to the GitHub repository of Lorena Lozano — a dynamic bilingual marketer with a proven track record in digital strategy and innovation across both startup and corporate environments.
+Welcome to the GitHub repository of Lorena Lozano, a dynamic bilingual marketer with a proven track record in digital strategy and innovation across both startup and corporate environments.
 
 ## 🚀 About Me
 
