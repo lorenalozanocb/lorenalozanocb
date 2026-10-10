@@ -10,6 +10,7 @@
   <a href="https://awellnesswhispers.com/"><img alt="Awellness Whispers" src="https://img.shields.io/badge/Awellness_Whispers-website-4E7D4A?style=flat"></a>
   <a href="https://kiserwithyou.wixsite.com/home"><img alt="Kisér" src="https://img.shields.io/badge/Kis%C3%A9r-Angelic_Reiki-8E7CC3?style=flat"></a>
   <a href="https://www.youtube.com/@awellnesswhispers"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@awellnesswhispers-FF0000?style=flat&logo=youtube&logoColor=white"></a>
+  <a href="https://www.youtube.com/@KiserWithYou"><img alt="YouTube Kisér" src="https://img.shields.io/badge/YouTube-@KiserWithYou-FF0000?style=flat&logo=youtube&logoColor=white"></a>
 </p>
 
 ---
@@ -29,7 +30,7 @@ I work where creativity meets data: structuring accounts, testing creative, and 
 - **Programmatic & Retargeting:** Criteo, RTB House
 - **CRM & Retention:** Braze, lifecycle and loyalty programs, paid and non-paid retention
 - **Analytics & Measurement:** Google Analytics, Looker Studio (Google Data Studio), Tableau, Amplitude, AppsFlyer
-- **AI for Marketing:** Perplexity, NotebookLM, Google AI Studio, Claude
+- **AI for Marketing:** Perplexity, Claude
 
 **Industries:** automotive, retail & e-commerce, QSR, fintech, media & publishing, real estate, health & pharmacy, non-profit.
 
@@ -82,6 +83,13 @@ A space where I write about nature, mindfulness and spirituality, and how reconn
 
 ### [Kisér](https://kiserwithyou.wixsite.com/home)
 My practice as an **Angelic Reiki practitioner**. Through Kisér I offer energy healing sessions that support balance, calm and personal well-being.
+▶️ YouTube: [@KiserWithYou](https://www.youtube.com/@KiserWithYou)
+
+### 📚 Books
+I'm the author of a 30-day guide to releasing anxiety, available in English and Spanish:
+
+- **[Release Anxiety in 30-Days](https://www.amazon.com/dp/B0GPNCJNX2)** (English)
+- **[Liberar La Ansiedad En 30 Días](https://www.amazon.com/dp/B0GPM8T7HV)** (Español)
 
 ## 🌍 Languages
 
