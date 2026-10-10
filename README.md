@@ -85,6 +85,12 @@ A space where I write about nature, mindfulness and spirituality, and how reconn
 My practice as an **Angelic Reiki practitioner**. Through Kisér I offer energy healing sessions that support balance, calm and personal well-being.
 ▶️ YouTube: [@KiserWithYou](https://www.youtube.com/@KiserWithYou)
 
+### 📚 Books
+I'm the author of a 30-day guide to releasing anxiety, available in English and Spanish:
+
+- **[Release Anxiety in 30-Days](https://www.amazon.com/dp/B0GPNCJNX2)** (English)
+- **[Liberar La Ansiedad En 30 Días](https://www.amazon.com/dp/B0GPM8T7HV)** (Español)
+
 ## 🌍 Languages
 
 - Spanish: Native
